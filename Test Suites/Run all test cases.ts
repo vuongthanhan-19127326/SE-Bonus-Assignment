@@ -191,4 +191,64 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Question bank/Delete a question in question bank</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>163d3e43-2f96-4c1e-a2f2-d05f0a34b70a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Quiz/Create a quiz</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>705fe6bf-2c4e-45d1-98fc-d07858726801</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Quiz/Add question after create a quiz</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0230f761-9aed-4098-86b5-4de7fb32d841</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Quiz/Add new question to quiz (edit quiz)</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f179342a-f314-42bb-9ce5-d1a0fe65386f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Quiz/Delete a question in quiz</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>94bea96a-f75a-4f03-b021-872a85a253f7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Quiz/Preview a quiz by teacher</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b21b3170-0a82-4c94-80f1-bb873c1296a7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Quiz/Attempt quiz by student</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e0371929-39b2-42af-9bb9-093937066781</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Quiz/Delete a quiz</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>62a03e0e-2497-4a96-863b-72216c1c7f8b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/I2/View grade of list course</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e2f27cd1-c188-48d8-960a-f765e33e2283</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/I2/Teacher view grade of a course</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>21e7272c-0b74-4d7f-a895-7b4844aeb470</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/I2/Student view grade of a course</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>

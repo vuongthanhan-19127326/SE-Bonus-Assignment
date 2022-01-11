@@ -1,0 +1,596 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Run all test cases,Chrome 97.0.4692.71,,,2022-01-11 12:46:00,2022-01-11 14:09:11,1h - 23m - 10.709s,FAILED
+,,,,,,,
+Test Cases/Chat/Chat starred,Chrome 97.0.4692.71,,,2022-01-11 12:49:32,2022-01-11 12:50:41,1m - 8.977s,FAILED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 12:49:32,2022-01-11 12:49:34,1.787s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 12:49:34,2022-01-11 12:49:35,0.936s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 12:49:35,2022-01-11 12:49:36,0.654s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""anhle1"")",Chrome 97.0.4692.71,,,2022-01-11 12:49:36,2022-01-11 12:49:37,0.877s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 12:49:37,2022-01-11 12:49:37,0.457s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 12:49:37,2022-01-11 12:49:38,0.997s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_0""))",Chrome 97.0.4692.71,,,2022-01-11 12:49:38,2022-01-11 12:50:10,31.518s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/div_L CDE""))",Chrome 97.0.4692.71,,,2022-01-11 12:50:10,2022-01-11 12:50:41,31.743s,FAILED
+,,,,,,,
+Test Cases/Chat/Chat with group,Chrome 97.0.4692.71,,,2022-01-11 12:54:14,2022-01-11 12:55:25,1m - 10.142s,FAILED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 12:54:14,2022-01-11 12:54:16,1.771s,PASSED
+closeBrowser(),Chrome 97.0.4692.71,,,2022-01-11 12:54:16,2022-01-11 12:54:17,0.599s,PASSED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 12:54:17,2022-01-11 12:54:18,1.118s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 12:54:18,2022-01-11 12:54:18,0.458s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 12:54:18,2022-01-11 12:54:19,0.653s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""admin"")",Chrome 97.0.4692.71,,,2022-01-11 12:54:19,2022-01-11 12:54:20,0.871s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 12:54:20,2022-01-11 12:54:20,0.424s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 12:54:20,2022-01-11 12:54:21,1.064s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_0""))",Chrome 97.0.4692.71,,,2022-01-11 12:54:21,2022-01-11 12:54:53,31.640s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/div_Team 1""))",Chrome 97.0.4692.71,,,2022-01-11 12:54:53,2022-01-11 12:55:25,31.537s,FAILED
+,,,,,,,
+Test Cases/Chat/Chat private,Chrome 97.0.4692.71,,,2022-01-11 12:57:18,2022-01-11 12:57:56,37.754s,FAILED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 12:57:18,2022-01-11 12:57:20,1.814s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 12:57:20,2022-01-11 12:57:21,0.736s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 12:57:21,2022-01-11 12:57:21,0.629s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""admin"")",Chrome 97.0.4692.71,,,2022-01-11 12:57:21,2022-01-11 12:57:22,0.886s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 12:57:22,2022-01-11 12:57:23,0.413s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 12:57:23,2022-01-11 12:57:24,1.157s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_0""))",Chrome 97.0.4692.71,,,2022-01-11 12:57:24,2022-01-11 12:57:55,31.542s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/i_hello_icon fa fa-caret-right fa-fw""))",Chrome 97.0.4692.71,,,2022-01-11 12:57:55,2022-01-11 12:57:56,0.571s,FAILED
+,,,,,,,
+Test Cases/Chat/Search user and chat,Chrome 97.0.4692.71,,,2022-01-11 12:59:51,2022-01-11 13:00:28,37.560s,FAILED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 12:59:51,2022-01-11 12:59:52,1.784s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 12:59:52,2022-01-11 12:59:53,0.610s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 12:59:53,2022-01-11 12:59:54,0.610s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""admin"")",Chrome 97.0.4692.71,,,2022-01-11 12:59:54,2022-01-11 12:59:55,0.893s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 12:59:55,2022-01-11 12:59:55,0.429s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 12:59:55,2022-01-11 12:59:57,1.619s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/i_See all_icon fa fa-comment-o fa-fw""))",Chrome 97.0.4692.71,,,2022-01-11 12:59:57,2022-01-11 13:00:28,31.607s,FAILED
+,,,,,,,
+Test Cases/Chat/Cancel add contact,Chrome 97.0.4692.71,,,2022-01-11 13:02:23,2022-01-11 13:03:01,37.966s,FAILED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 13:02:23,2022-01-11 13:02:24,1.810s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 13:02:24,2022-01-11 13:02:25,1.073s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:02:25,2022-01-11 13:02:26,0.701s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""admin"")",Chrome 97.0.4692.71,,,2022-01-11 13:02:26,2022-01-11 13:02:27,0.839s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 13:02:27,2022-01-11 13:02:27,0.410s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:02:27,2022-01-11 13:02:29,1.138s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_0""))",Chrome 97.0.4692.71,,,2022-01-11 13:02:29,2022-01-11 13:03:00,31.413s,PASSED
+"setText(findTestObject(""Object Repository/Page_Dashboard/input_Messages selected_form-control""), ""student"")",Chrome 97.0.4692.71,,,2022-01-11 13:03:00,2022-01-11 13:03:01,0.574s,FAILED
+,,,,,,,
+Test Cases/Chat/Add contact,Chrome 97.0.4692.71,,,2022-01-11 13:04:54,2022-01-11 13:05:31,37.662s,FAILED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 13:04:54,2022-01-11 13:04:56,1.778s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 13:04:56,2022-01-11 13:04:56,0.606s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:04:56,2022-01-11 13:04:57,0.785s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""admin"")",Chrome 97.0.4692.71,,,2022-01-11 13:04:57,2022-01-11 13:04:58,0.860s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 13:04:58,2022-01-11 13:04:58,0.406s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:04:58,2022-01-11 13:04:59,1.022s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_0""))",Chrome 97.0.4692.71,,,2022-01-11 13:04:59,2022-01-11 13:05:31,31.593s,PASSED
+"setText(findTestObject(""Object Repository/Page_Dashboard/input_Messages selected_form-control""), ""Anh Lee"")",Chrome 97.0.4692.71,,,2022-01-11 13:05:31,2022-01-11 13:05:31,0.606s,FAILED
+,,,,,,,
+Test Cases/Chat/Accept contact,Chrome 97.0.4692.71,,,2022-01-11 13:07:23,2022-01-11 13:08:01,37.547s,FAILED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 13:07:23,2022-01-11 13:07:25,1.939s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 13:07:25,2022-01-11 13:07:26,0.990s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:07:26,2022-01-11 13:07:27,0.666s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""admin3"")",Chrome 97.0.4692.71,,,2022-01-11 13:07:27,2022-01-11 13:07:28,0.780s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 13:07:28,2022-01-11 13:07:28,0.417s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:07:28,2022-01-11 13:07:29,1.088s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/i_See all_icon fa fa-comment-o fa-fw""))",Chrome 97.0.4692.71,,,2022-01-11 13:07:29,2022-01-11 13:08:01,31.660s,FAILED
+,,,,,,,
+Test Cases/Chat/Remove a contact,Chrome 97.0.4692.71,,,2022-01-11 13:09:52,2022-01-11 13:10:29,36.973s,FAILED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 13:09:52,2022-01-11 13:09:54,1.790s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 13:09:54,2022-01-11 13:09:55,0.777s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:09:55,2022-01-11 13:09:56,0.651s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""admin"")",Chrome 97.0.4692.71,,,2022-01-11 13:09:56,2022-01-11 13:09:56,0.833s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 13:09:56,2022-01-11 13:09:57,0.435s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:09:57,2022-01-11 13:09:58,0.932s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/i_See all_icon fa fa-comment-o fa-fw""))",Chrome 97.0.4692.71,,,2022-01-11 13:09:58,2022-01-11 13:10:29,31.551s,FAILED
+,,,,,,,
+Test Cases/Chat/Cancel block user,Chrome 97.0.4692.71,,,2022-01-11 13:12:23,2022-01-11 13:13:01,38.620s,FAILED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 13:12:23,2022-01-11 13:12:25,2.322s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 13:12:25,2022-01-11 13:12:26,0.867s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:12:26,2022-01-11 13:12:26,0.658s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""admin"")",Chrome 97.0.4692.71,,,2022-01-11 13:12:26,2022-01-11 13:12:27,0.956s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 13:12:27,2022-01-11 13:12:28,0.425s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:12:28,2022-01-11 13:12:29,1.182s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_0""))",Chrome 97.0.4692.71,,,2022-01-11 13:12:29,2022-01-11 13:13:01,31.635s,PASSED
+"setText(findTestObject(""Object Repository/Page_Dashboard/input_Messages selected_form-control""), ""student"")",Chrome 97.0.4692.71,,,2022-01-11 13:13:01,2022-01-11 13:13:01,0.569s,FAILED
+,,,,,,,
+Test Cases/Chat/Block user,Chrome 97.0.4692.71,,,2022-01-11 13:14:58,2022-01-11 13:15:36,37.755s,FAILED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 13:14:58,2022-01-11 13:15:00,1.788s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 13:15:00,2022-01-11 13:15:01,0.508s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:15:01,2022-01-11 13:15:01,0.734s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/form_Username                              _635ab4""))",Chrome 97.0.4692.71,,,2022-01-11 13:15:01,2022-01-11 13:15:02,0.474s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""admin"")",Chrome 97.0.4692.71,,,2022-01-11 13:15:02,2022-01-11 13:15:03,0.789s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 13:15:03,2022-01-11 13:15:03,0.394s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:15:03,2022-01-11 13:15:04,0.992s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_0""))",Chrome 97.0.4692.71,,,2022-01-11 13:15:04,2022-01-11 13:15:35,31.479s,PASSED
+"setText(findTestObject(""Object Repository/Page_Dashboard/input_Messages selected_form-control""), ""student"")",Chrome 97.0.4692.71,,,2022-01-11 13:15:35,2022-01-11 13:15:36,0.590s,FAILED
+,,,,,,,
+Test Cases/Chat/Cancel unblock user,Chrome 97.0.4692.71,,,2022-01-11 13:17:32,2022-01-11 13:18:10,37.828s,FAILED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 13:17:32,2022-01-11 13:17:34,1.822s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 13:17:34,2022-01-11 13:17:35,1.007s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:17:35,2022-01-11 13:17:35,0.655s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""admin"")",Chrome 97.0.4692.71,,,2022-01-11 13:17:35,2022-01-11 13:17:36,0.838s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 13:17:36,2022-01-11 13:17:37,0.429s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:17:37,2022-01-11 13:17:38,1.248s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/i_See all_icon fa fa-comment-o fa-fw""))",Chrome 97.0.4692.71,,,2022-01-11 13:17:38,2022-01-11 13:18:10,31.821s,FAILED
+,,,,,,,
+Test Cases/Chat/Unblock user,Chrome 97.0.4692.71,,,2022-01-11 13:20:01,2022-01-11 13:20:38,37.021s,FAILED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 13:20:01,2022-01-11 13:20:02,1.824s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 13:20:02,2022-01-11 13:20:03,0.485s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:20:03,2022-01-11 13:20:04,0.665s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""admin"")",Chrome 97.0.4692.71,,,2022-01-11 13:20:04,2022-01-11 13:20:04,0.808s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 13:20:04,2022-01-11 13:20:05,0.420s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:20:05,2022-01-11 13:20:06,1.100s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/i_See all_icon fa fa-comment-o fa-fw""))",Chrome 97.0.4692.71,,,2022-01-11 13:20:06,2022-01-11 13:20:38,31.711s,FAILED
+,,,,,,,
+Test Cases/Chat/Delete conversation (message with another user),Chrome 97.0.4692.71,,,2022-01-11 13:24:05,2022-01-11 13:25:14,1m - 9.173s,FAILED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 13:24:05,2022-01-11 13:24:07,1.955s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 13:24:07,2022-01-11 13:24:08,0.833s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/span_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:24:08,2022-01-11 13:24:08,0.694s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:24:08,2022-01-11 13:24:40,31.732s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""admin"")",Chrome 97.0.4692.71,,,2022-01-11 13:24:40,2022-01-11 13:24:41,0.848s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 13:24:41,2022-01-11 13:24:41,0.410s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:24:41,2022-01-11 13:24:42,1.035s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/i_See all_icon fa fa-comment-o fa-fw""))",Chrome 97.0.4692.71,,,2022-01-11 13:24:42,2022-01-11 13:25:14,31.659s,FAILED
+,,,,,,,
+Test Cases/I1/Create a event user type (event button),Chrome 97.0.4692.71,,,2022-01-11 13:25:14,2022-01-11 13:26:30,1m - 15.882s,PASSED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 13:25:14,2022-01-11 13:25:16,1.789s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 13:25:16,2022-01-11 13:25:17,0.819s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:25:17,2022-01-11 13:25:18,0.624s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""admin"")",Chrome 97.0.4692.71,,,2022-01-11 13:25:18,2022-01-11 13:25:19,0.898s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 13:25:19,2022-01-11 13:25:19,0.442s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:25:19,2022-01-11 13:25:20,1.039s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/button_New event""))",Chrome 97.0.4692.71,,,2022-01-11 13:25:20,2022-01-11 13:25:52,31.645s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Dashboard/select_1        2        3        4        _45ea30""), ""6"", true)",Chrome 97.0.4692.71,,,2022-01-11 13:25:52,2022-01-11 13:25:57,5.380s,PASSED
+"setText(findTestObject(""Object Repository/Page_Dashboard/input_Event title_name""), ""Anhle"")",Chrome 97.0.4692.71,,,2022-01-11 13:25:57,2022-01-11 13:25:58,0.762s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/button_Save""))",Chrome 97.0.4692.71,,,2022-01-11 13:25:58,2022-01-11 13:26:29,31.500s,PASSED
+closeBrowser(),Chrome 97.0.4692.71,,,2022-01-11 13:26:29,2022-01-11 13:26:30,0.649s,PASSED
+,,,,,,,
+Test Cases/I1/Create a event site type (event button),Chrome 97.0.4692.71,,,2022-01-11 13:26:30,2022-01-11 13:27:44,1m - 13.963s,PASSED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 13:26:30,2022-01-11 13:26:31,1.172s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 13:26:31,2022-01-11 13:26:32,0.523s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:26:32,2022-01-11 13:26:33,0.626s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""admin"")",Chrome 97.0.4692.71,,,2022-01-11 13:26:33,2022-01-11 13:26:34,0.923s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 13:26:34,2022-01-11 13:26:34,0.406s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:26:34,2022-01-11 13:26:35,0.980s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/button_New event""))",Chrome 97.0.4692.71,,,2022-01-11 13:26:35,2022-01-11 13:27:06,31.498s,PASSED
+"setText(findTestObject(""Object Repository/Page_Dashboard/input_Event title_name""), ""5"")",Chrome 97.0.4692.71,,,2022-01-11 13:27:06,2022-01-11 13:27:08,2.063s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Dashboard/select_1        2        3        4        _45ea30""), ""6"", true)",Chrome 97.0.4692.71,,,2022-01-11 13:27:08,2022-01-11 13:27:10,1.938s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Dashboard/select_User            Course            Ca_edc569""), ""site"", true)",Chrome 97.0.4692.71,,,2022-01-11 13:27:10,2022-01-11 13:27:12,1.238s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/button_Save""))",Chrome 97.0.4692.71,,,2022-01-11 13:27:12,2022-01-11 13:27:43,31.635s,PASSED
+closeBrowser(),Chrome 97.0.4692.71,,,2022-01-11 13:27:43,2022-01-11 13:27:44,0.639s,PASSED
+,,,,,,,
+Test Cases/I1/Create a event course type (event button),Chrome 97.0.4692.71,,,2022-01-11 13:27:44,2022-01-11 13:30:02,2m - 18.313s,PASSED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 13:27:44,2022-01-11 13:27:45,1.142s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 13:27:45,2022-01-11 13:27:46,0.516s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:27:46,2022-01-11 13:27:47,0.642s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""admin"")",Chrome 97.0.4692.71,,,2022-01-11 13:27:47,2022-01-11 13:27:47,0.837s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 13:27:47,2022-01-11 13:27:48,0.417s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:27:48,2022-01-11 13:27:49,0.954s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/button_New event""))",Chrome 97.0.4692.71,,,2022-01-11 13:27:49,2022-01-11 13:28:20,31.670s,PASSED
+"setText(findTestObject(""Object Repository/Page_Dashboard/input_Event title_name""), ""3"")",Chrome 97.0.4692.71,,,2022-01-11 13:28:20,2022-01-11 13:28:22,1.992s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Dashboard/select_1        2        3        4        _45ea30""), ""6"", true)",Chrome 97.0.4692.71,,,2022-01-11 13:28:22,2022-01-11 13:28:24,1.909s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Dashboard/select_User            Course            Ca_edc569""), ""course"", true)",Chrome 97.0.4692.71,,,2022-01-11 13:28:24,2022-01-11 13:28:26,1.221s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/span_""))",Chrome 97.0.4692.71,,,2022-01-11 13:28:26,2022-01-11 13:28:57,31.669s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/li_1""))",Chrome 97.0.4692.71,,,2022-01-11 13:28:57,2022-01-11 13:29:29,31.494s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Dashboard/select_1""), ""2"", true)",Chrome 97.0.4692.71,,,2022-01-11 13:29:29,2022-01-11 13:29:30,1.418s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/button_Save""))",Chrome 97.0.4692.71,,,2022-01-11 13:29:30,2022-01-11 13:30:02,31.462s,PASSED
+closeBrowser(),Chrome 97.0.4692.71,,,2022-01-11 13:30:02,2022-01-11 13:30:02,0.649s,PASSED
+,,,,,,,
+Test Cases/I1/Create a event category type (event button),Chrome 97.0.4692.71,,,2022-01-11 13:30:02,2022-01-11 13:31:14,1m - 11.913s,PASSED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 13:30:03,2022-01-11 13:30:04,1.138s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 13:30:04,2022-01-11 13:30:04,0.470s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:30:04,2022-01-11 13:30:05,0.606s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""admin"")",Chrome 97.0.4692.71,,,2022-01-11 13:30:05,2022-01-11 13:30:06,0.856s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 13:30:06,2022-01-11 13:30:06,0.430s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:30:06,2022-01-11 13:30:07,1.031s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/button_New event""))",Chrome 97.0.4692.71,,,2022-01-11 13:30:07,2022-01-11 13:30:39,31.415s,PASSED
+"setText(findTestObject(""Object Repository/Page_Dashboard/input_Event title_name""), ""10"")",Chrome 97.0.4692.71,,,2022-01-11 13:30:39,2022-01-11 13:30:41,1.991s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Dashboard/select_User            Group            Cou_43b121""), ""category"", true)",Chrome 97.0.4692.71,,,2022-01-11 13:30:41,2022-01-11 13:30:42,1.379s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/button_Save""))",Chrome 97.0.4692.71,,,2022-01-11 13:30:42,2022-01-11 13:31:14,31.647s,PASSED
+closeBrowser(),Chrome 97.0.4692.71,,,2022-01-11 13:31:14,2022-01-11 13:31:14,0.637s,PASSED
+,,,,,,,
+Test Cases/I2/View my profile,Chrome 97.0.4692.71,,,2022-01-11 13:31:14,2022-01-11 13:31:22,7.738s,PASSED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 13:31:14,2022-01-11 13:31:16,1.138s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 13:31:16,2022-01-11 13:31:16,0.473s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:31:16,2022-01-11 13:31:17,0.631s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""admin"")",Chrome 97.0.4692.71,,,2022-01-11 13:31:17,2022-01-11 13:31:18,0.912s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 13:31:18,2022-01-11 13:31:18,0.421s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:31:18,2022-01-11 13:31:19,1.070s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_AU""))",Chrome 97.0.4692.71,,,2022-01-11 13:31:19,2022-01-11 13:31:20,1.045s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_Profile""))",Chrome 97.0.4692.71,,,2022-01-11 13:31:20,2022-01-11 13:31:21,1.104s,PASSED
+closeBrowser(),Chrome 97.0.4692.71,,,2022-01-11 13:31:21,2022-01-11 13:31:22,0.640s,PASSED
+,,,,,,,
+Test Cases/I2/Cancel edit profile,Chrome 97.0.4692.71,,,2022-01-11 13:31:22,2022-01-11 13:31:33,11.182s,PASSED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 13:31:22,2022-01-11 13:31:23,1.185s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 13:31:23,2022-01-11 13:31:24,0.487s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:31:24,2022-01-11 13:31:25,0.596s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""admin"")",Chrome 97.0.4692.71,,,2022-01-11 13:31:25,2022-01-11 13:31:25,0.932s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 13:31:25,2022-01-11 13:31:26,0.406s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:31:26,2022-01-11 13:31:27,0.978s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_AU""))",Chrome 97.0.4692.71,,,2022-01-11 13:31:27,2022-01-11 13:31:28,1.133s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_Profile""))",Chrome 97.0.4692.71,,,2022-01-11 13:31:28,2022-01-11 13:31:29,0.898s,PASSED
+"click(findTestObject(""Object Repository/Page_Admin User Public profile/a_Edit profile""))",Chrome 97.0.4692.71,,,2022-01-11 13:31:29,2022-01-11 13:31:31,2.114s,PASSED
+"scrollToElement(findTestObject(""Page_Anh Lee Edit profile/input_Address_cancel""), 0)",Chrome 97.0.4692.71,,,2022-01-11 13:31:31,2022-01-11 13:31:32,0.594s,PASSED
+"click(findTestObject(""Object Repository/Page_Anh Lee Edit profile/input_Address_cancel""))",Chrome 97.0.4692.71,,,2022-01-11 13:31:32,2022-01-11 13:31:32,0.919s,PASSED
+closeBrowser(),Chrome 97.0.4692.71,,,2022-01-11 13:31:32,2022-01-11 13:31:33,0.628s,PASSED
+,,,,,,,
+Test Cases/I2/Edit my profile,Chrome 97.0.4692.71,,,2022-01-11 13:31:33,2022-01-11 13:31:44,10.833s,PASSED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 13:31:33,2022-01-11 13:31:35,1.097s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 13:31:35,2022-01-11 13:31:35,0.483s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:31:35,2022-01-11 13:31:36,0.601s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""admin"")",Chrome 97.0.4692.71,,,2022-01-11 13:31:36,2022-01-11 13:31:36,0.848s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 13:31:36,2022-01-11 13:31:37,0.425s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:31:37,2022-01-11 13:31:38,1.072s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_AU""))",Chrome 97.0.4692.71,,,2022-01-11 13:31:38,2022-01-11 13:31:39,1.140s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_Profile""))",Chrome 97.0.4692.71,,,2022-01-11 13:31:39,2022-01-11 13:31:40,0.700s,PASSED
+"click(findTestObject(""Object Repository/Page_Admin User Public profile/a_Edit profile""))",Chrome 97.0.4692.71,,,2022-01-11 13:31:40,2022-01-11 13:31:41,1.654s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Anh Lee Edit profile/input_Address_submitbutton""), 0)",Chrome 97.0.4692.71,,,2022-01-11 13:31:41,2022-01-11 13:31:42,0.607s,PASSED
+"click(findTestObject(""Object Repository/Page_Anh Lee Edit profile/input_Address_submitbutton""))",Chrome 97.0.4692.71,,,2022-01-11 13:31:42,2022-01-11 13:31:43,1.237s,PASSED
+closeBrowser(),Chrome 97.0.4692.71,,,2022-01-11 13:31:43,2022-01-11 13:31:44,0.625s,PASSED
+,,,,,,,
+Test Cases/Question bank/Add a new Short answer question,Chrome 97.0.4692.71,,,2022-01-11 13:31:44,2022-01-11 13:34:41,2m - 56.956s,PASSED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 13:31:44,2022-01-11 13:31:45,1.131s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 13:31:45,2022-01-11 13:31:46,0.497s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:31:46,2022-01-11 13:31:47,0.620s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""admin"")",Chrome 97.0.4692.71,,,2022-01-11 13:31:47,2022-01-11 13:31:47,0.913s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 13:31:47,2022-01-11 13:31:48,0.427s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:31:48,2022-01-11 13:31:49,0.956s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_My courses""))",Chrome 97.0.4692.71,,,2022-01-11 13:31:49,2022-01-11 13:32:21,32.130s,PASSED
+"click(findTestObject(""Object Repository/Page_My courses/div_Course image""))",Chrome 97.0.4692.71,,,2022-01-11 13:32:21,2022-01-11 13:32:23,2.290s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 1/a_More""))",Chrome 97.0.4692.71,,,2022-01-11 13:32:23,2022-01-11 13:32:55,31.446s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 1/a_Question bank""))",Chrome 97.0.4692.71,,,2022-01-11 13:32:55,2022-01-11 13:33:29,34.107s,PASSED
+"click(findTestObject(""Object Repository/Page_Edit questions/button_Create a new question""))",Chrome 97.0.4692.71,,,2022-01-11 13:33:29,2022-01-11 13:34:00,31.482s,PASSED
+"click(findTestObject(""Object Repository/Page_Edit questions/input_Matching_qtype""))",Chrome 97.0.4692.71,,,2022-01-11 13:34:00,2022-01-11 13:34:01,0.507s,PASSED
+"click(findTestObject(""Object Repository/Page_Edit questions/input_Description_submitbutton""))",Chrome 97.0.4692.71,,,2022-01-11 13:34:01,2022-01-11 13:34:33,32.249s,PASSED
+"setText(findTestObject(""Object Repository/Page_Editing a Short answer question/input_Question name_name""), ""Anh le la ai"")",Chrome 97.0.4692.71,,,2022-01-11 13:34:33,2022-01-11 13:34:34,1.166s,PASSED
+"setText(findTestObject(""Object Repository/Page_Editing a Short answer question/div_Anh le la ai""), ""<p dir=""ltr"" style=""text-align: left;"" id=""yui_3_17_2_1_1641726965698_2888"">Anh le la ai</p>"")",Chrome 97.0.4692.71,,,2022-01-11 13:34:34,2022-01-11 13:34:35,1.190s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Editing a Short answer question/input_Answer 1_answer0""), 0)",Chrome 97.0.4692.71,,,2022-01-11 13:34:35,2022-01-11 13:34:36,0.467s,PASSED
+"setText(findTestObject(""Object Repository/Page_Editing a Short answer question/input_Answer 1_answer0""), ""1"")",Chrome 97.0.4692.71,,,2022-01-11 13:34:36,2022-01-11 13:34:37,0.675s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Editing a Short answer question/select_None        100        90        83._8cdef3""), ""1.0"", true)",Chrome 97.0.4692.71,,,2022-01-11 13:34:37,2022-01-11 13:34:38,1.441s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Editing a Short answer question/input__submitbutton""), 0)",Chrome 97.0.4692.71,,,2022-01-11 13:34:38,2022-01-11 13:34:38,0.339s,PASSED
+"click(findTestObject(""Object Repository/Page_Editing a Short answer question/input__submitbutton""))",Chrome 97.0.4692.71,,,2022-01-11 13:34:38,2022-01-11 13:34:40,1.875s,PASSED
+closeBrowser(),Chrome 97.0.4692.71,,,2022-01-11 13:34:40,2022-01-11 13:34:41,0.736s,PASSED
+,,,,,,,
+Test Cases/Question bank/Add a numerical question,Chrome 97.0.4692.71,,,2022-01-11 13:34:41,2022-01-11 13:37:38,2m - 57.341s,PASSED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 13:34:42,2022-01-11 13:34:43,1.323s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 13:34:43,2022-01-11 13:34:44,1.187s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:34:44,2022-01-11 13:34:45,0.783s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""admin"")",Chrome 97.0.4692.71,,,2022-01-11 13:34:45,2022-01-11 13:34:46,0.840s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 13:34:46,2022-01-11 13:34:46,0.457s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:34:46,2022-01-11 13:34:47,1.274s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_My courses""))",Chrome 97.0.4692.71,,,2022-01-11 13:34:47,2022-01-11 13:35:20,32.071s,PASSED
+"click(findTestObject(""Object Repository/Page_My courses/div_Course image""))",Chrome 97.0.4692.71,,,2022-01-11 13:35:20,2022-01-11 13:35:21,1.594s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 1/a_More""))",Chrome 97.0.4692.71,,,2022-01-11 13:35:21,2022-01-11 13:35:53,31.556s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 1/a_Question bank""))",Chrome 97.0.4692.71,,,2022-01-11 13:35:53,2022-01-11 13:36:25,32.628s,PASSED
+"click(findTestObject(""Object Repository/Page_Edit questions/button_Create a new question""))",Chrome 97.0.4692.71,,,2022-01-11 13:36:25,2022-01-11 13:36:57,31.524s,PASSED
+"click(findTestObject(""Object Repository/Page_Edit questions/input_Short answer_qtype""))",Chrome 97.0.4692.71,,,2022-01-11 13:36:57,2022-01-11 13:36:57,0.500s,PASSED
+"click(findTestObject(""Object Repository/Page_Edit questions/input_Description_submitbutton""))",Chrome 97.0.4692.71,,,2022-01-11 13:36:57,2022-01-11 13:37:31,33.269s,PASSED
+"setText(findTestObject(""Object Repository/Page_Editing a Numerical question/input_Question name_name""), ""Anh le la ai"")",Chrome 97.0.4692.71,,,2022-01-11 13:37:31,2022-01-11 13:37:32,1.061s,PASSED
+"setText(findTestObject(""Object Repository/Page_Editing a Numerical question/div_Anh le la ai""), ""<p dir=""ltr"" style=""text-align: left;"">Anh le la ai</p>"")",Chrome 97.0.4692.71,,,2022-01-11 13:37:32,2022-01-11 13:37:33,1.250s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Editing a Numerical question/input_Answer 1_answer0""), 0)",Chrome 97.0.4692.71,,,2022-01-11 13:37:33,2022-01-11 13:37:33,0.484s,PASSED
+"setText(findTestObject(""Object Repository/Page_Editing a Numerical question/input_Answer 1_answer0""), ""1"")",Chrome 97.0.4692.71,,,2022-01-11 13:37:33,2022-01-11 13:37:34,0.706s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Editing a Numerical question/select_None        100        90        83._8cdef3""), ""1.0"", true)",Chrome 97.0.4692.71,,,2022-01-11 13:37:34,2022-01-11 13:37:36,1.496s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Editing a Numerical question/input__submitbutton""), 0)",Chrome 97.0.4692.71,,,2022-01-11 13:37:36,2022-01-11 13:37:36,0.360s,PASSED
+"click(findTestObject(""Object Repository/Page_Editing a Numerical question/input__submitbutton""))",Chrome 97.0.4692.71,,,2022-01-11 13:37:36,2022-01-11 13:37:38,1.639s,PASSED
+closeBrowser(),Chrome 97.0.4692.71,,,2022-01-11 13:37:38,2022-01-11 13:37:38,0.710s,PASSED
+,,,,,,,
+Test Cases/Question bank/Add a True False question,Chrome 97.0.4692.71,,,2022-01-11 13:37:38,2022-01-11 13:41:03,3m - 24.772s,PASSED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 13:37:39,2022-01-11 13:37:40,1.268s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 13:37:40,2022-01-11 13:37:41,0.810s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:37:41,2022-01-11 13:37:42,0.758s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""admin"")",Chrome 97.0.4692.71,,,2022-01-11 13:37:42,2022-01-11 13:37:42,0.853s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 13:37:42,2022-01-11 13:37:43,0.477s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:37:43,2022-01-11 13:37:44,1.513s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_My courses""))",Chrome 97.0.4692.71,,,2022-01-11 13:37:44,2022-01-11 13:38:16,31.838s,PASSED
+"click(findTestObject(""Object Repository/Page_My courses/div_Course image""))",Chrome 97.0.4692.71,,,2022-01-11 13:38:16,2022-01-11 13:38:18,1.402s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 1/a_More""))",Chrome 97.0.4692.71,,,2022-01-11 13:38:18,2022-01-11 13:38:49,31.523s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 1/a_Question bank""))",Chrome 97.0.4692.71,,,2022-01-11 13:38:49,2022-01-11 13:39:22,32.870s,PASSED
+"click(findTestObject(""Object Repository/Page_Edit questions/button_Create a new question""))",Chrome 97.0.4692.71,,,2022-01-11 13:39:22,2022-01-11 13:39:54,31.638s,PASSED
+"click(findTestObject(""Object Repository/Page_Edit questions/label_TrueFalse                            _836f0e""))",Chrome 97.0.4692.71,,,2022-01-11 13:39:54,2022-01-11 13:40:25,31.695s,PASSED
+"click(findTestObject(""Object Repository/Page_Edit questions/input_Description_submitbutton""))",Chrome 97.0.4692.71,,,2022-01-11 13:40:25,2022-01-11 13:40:58,32.814s,PASSED
+"setText(findTestObject(""Object Repository/Page_Editing a TrueFalse question/input_Question name_name""), ""Anh le la ai"")",Chrome 97.0.4692.71,,,2022-01-11 13:40:58,2022-01-11 13:41:00,1.309s,PASSED
+"setText(findTestObject(""Object Repository/Page_Editing a TrueFalse question/div_Anh le la ai""), ""<p dir=""ltr"" style=""text-align: left;"" id=""yui_3_17_2_1_1641726640458_1708"">Anh le la ai</p>"")",Chrome 97.0.4692.71,,,2022-01-11 13:41:00,2022-01-11 13:41:01,1.179s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Editing a TrueFalse question/input__submitbutton""), 0)",Chrome 97.0.4692.71,,,2022-01-11 13:41:01,2022-01-11 13:41:01,0.463s,PASSED
+"click(findTestObject(""Object Repository/Page_Editing a TrueFalse question/input__submitbutton""))",Chrome 97.0.4692.71,,,2022-01-11 13:41:01,2022-01-11 13:41:02,1.273s,PASSED
+closeBrowser(),Chrome 97.0.4692.71,,,2022-01-11 13:41:02,2022-01-11 13:41:03,0.656s,PASSED
+,,,,,,,
+Test Cases/Question bank/Add a new multiple choice question,Chrome 97.0.4692.71,,,2022-01-11 13:41:03,2022-01-11 13:44:10,3m - 6.487s,PASSED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 13:41:04,2022-01-11 13:41:05,1.151s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 13:41:05,2022-01-11 13:41:05,0.822s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:41:05,2022-01-11 13:41:06,0.768s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""admin"")",Chrome 97.0.4692.71,,,2022-01-11 13:41:06,2022-01-11 13:41:07,0.848s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 13:41:07,2022-01-11 13:41:08,0.434s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/div_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:41:08,2022-01-11 13:41:08,0.406s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:41:08,2022-01-11 13:41:09,1.390s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_My courses""))",Chrome 97.0.4692.71,,,2022-01-11 13:41:09,2022-01-11 13:41:42,32.562s,PASSED
+"click(findTestObject(""Object Repository/Page_My courses/div_Course image""))",Chrome 97.0.4692.71,,,2022-01-11 13:41:42,2022-01-11 13:41:44,1.749s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 1/a_More""))",Chrome 97.0.4692.71,,,2022-01-11 13:41:44,2022-01-11 13:42:15,31.666s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 1/a_Question bank""))",Chrome 97.0.4692.71,,,2022-01-11 13:42:15,2022-01-11 13:42:48,32.771s,PASSED
+"click(findTestObject(""Object Repository/Page_Edit questions/button_Create a new question""))",Chrome 97.0.4692.71,,,2022-01-11 13:42:48,2022-01-11 13:43:20,31.732s,PASSED
+"click(findTestObject(""Object Repository/Page_Edit questions/input_Questions_qtype""))",Chrome 97.0.4692.71,,,2022-01-11 13:43:20,2022-01-11 13:43:20,0.571s,PASSED
+"click(findTestObject(""Object Repository/Page_Edit questions/input_Description_submitbutton""))",Chrome 97.0.4692.71,,,2022-01-11 13:43:20,2022-01-11 13:43:54,33.474s,PASSED
+"setText(findTestObject(""Object Repository/Page_Editing a Multiple choice question/input_Question name_name""), ""Anh le la ai"")",Chrome 97.0.4692.71,,,2022-01-11 13:43:54,2022-01-11 13:43:55,1.093s,PASSED
+"setText(findTestObject(""Object Repository/Page_Editing a Multiple choice question/div_Anh le la ai""), ""<p dir=""ltr"" style=""text-align: left;"">Anh le la ai</p>"")",Chrome 97.0.4692.71,,,2022-01-11 13:43:55,2022-01-11 13:43:56,1.132s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Editing a Multiple choice question/div_1""), 0)",Chrome 97.0.4692.71,,,2022-01-11 13:43:56,2022-01-11 13:43:57,0.449s,PASSED
+"setText(findTestObject(""Object Repository/Page_Editing a Multiple choice question/div_1""), ""<p dir=""ltr"" style=""text-align: left;"" id=""yui_3_17_2_1_1641727220527_6952"">1</p>"")",Chrome 97.0.4692.71,,,2022-01-11 13:43:57,2022-01-11 13:43:58,1.084s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Editing a Multiple choice question/select_None            100            90   _353130""), ""1.0"", true)",Chrome 97.0.4692.71,,,2022-01-11 13:43:58,2022-01-11 13:44:00,1.958s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Editing a Multiple choice question/div_1_1""), 0)",Chrome 97.0.4692.71,,,2022-01-11 13:44:00,2022-01-11 13:44:00,0.349s,PASSED
+"setText(findTestObject(""Object Repository/Page_Editing a Multiple choice question/div_1_1""), ""<p dir=""ltr"" style=""text-align: left;"" id=""yui_3_17_2_1_1641727220527_6971"">1</p>"")",Chrome 97.0.4692.71,,,2022-01-11 13:44:00,2022-01-11 13:44:01,1.077s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Editing a Multiple choice question/select_None            100            90   _353130_1""), ""0.5"", true)",Chrome 97.0.4692.71,,,2022-01-11 13:44:01,2022-01-11 13:44:03,2.337s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Editing a Multiple choice question/div_2""), 0)",Chrome 97.0.4692.71,,,2022-01-11 13:44:03,2022-01-11 13:44:04,0.397s,PASSED
+"setText(findTestObject(""Object Repository/Page_Editing a Multiple choice question/div_2""), ""<p dir=""ltr"" style=""text-align: left;"" id=""yui_3_17_2_1_1641727220527_6988"">2</p>"")",Chrome 97.0.4692.71,,,2022-01-11 13:44:04,2022-01-11 13:44:05,1.036s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Editing a Multiple choice question/select_None            100            90   _353130_1_2""), ""0.3"", true)",Chrome 97.0.4692.71,,,2022-01-11 13:44:05,2022-01-11 13:44:07,2.478s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Editing a Multiple choice question/input__submitbutton""), 0)",Chrome 97.0.4692.71,,,2022-01-11 13:44:07,2022-01-11 13:44:08,0.351s,PASSED
+"click(findTestObject(""Object Repository/Page_Editing a Multiple choice question/input__submitbutton""))",Chrome 97.0.4692.71,,,2022-01-11 13:44:08,2022-01-11 13:44:09,1.390s,PASSED
+closeBrowser(),Chrome 97.0.4692.71,,,2022-01-11 13:44:09,2022-01-11 13:44:10,0.659s,PASSED
+,,,,,,,
+Test Cases/Question bank/Add a essay question in question bank,Chrome 97.0.4692.71,,,2022-01-11 13:44:10,2022-01-11 13:47:02,2m - 51.992s,PASSED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 13:44:10,2022-01-11 13:44:11,1.163s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 13:44:11,2022-01-11 13:44:12,0.916s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:44:12,2022-01-11 13:44:13,0.636s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""beta"")",Chrome 97.0.4692.71,,,2022-01-11 13:44:13,2022-01-11 13:44:14,0.885s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 13:44:14,2022-01-11 13:44:14,0.403s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:44:14,2022-01-11 13:44:15,1.181s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_My courses""))",Chrome 97.0.4692.71,,,2022-01-11 13:44:15,2022-01-11 13:44:47,31.671s,PASSED
+"click(findTestObject(""Object Repository/Page_My courses/div_Course image""))",Chrome 97.0.4692.71,,,2022-01-11 13:44:47,2022-01-11 13:44:49,1.738s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 2/a_More""))",Chrome 97.0.4692.71,,,2022-01-11 13:44:49,2022-01-11 13:45:20,31.464s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 2/a_Question bank""))",Chrome 97.0.4692.71,,,2022-01-11 13:45:20,2022-01-11 13:45:52,32.341s,PASSED
+"click(findTestObject(""Object Repository/Page_Edit questions/button_Create a new question""))",Chrome 97.0.4692.71,,,2022-01-11 13:45:52,2022-01-11 13:46:24,31.619s,PASSED
+"click(findTestObject(""Object Repository/Page_Edit questions/input_Numerical_qtype""))",Chrome 97.0.4692.71,,,2022-01-11 13:46:24,2022-01-11 13:46:24,0.497s,PASSED
+"click(findTestObject(""Object Repository/Page_Edit questions/input_Description_submitbutton""))",Chrome 97.0.4692.71,,,2022-01-11 13:46:24,2022-01-11 13:46:57,32.413s,PASSED
+"setText(findTestObject(""Object Repository/Page_Editing an Essay question/input_Question name_name""), ""Quiz 5"")",Chrome 97.0.4692.71,,,2022-01-11 13:46:57,2022-01-11 13:46:58,1.509s,PASSED
+"setText(findTestObject(""Object Repository/Page_Editing an Essay question/div_Quiz 5""), ""<p dir=""ltr"" style=""text-align: left;"" id=""yui_3_17_2_1_1641855428617_1717"">Quiz 5</p>"")",Chrome 97.0.4692.71,,,2022-01-11 13:46:58,2022-01-11 13:47:00,1.207s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Editing an Essay question/input__submitbutton""), 0)",Chrome 97.0.4692.71,,,2022-01-11 13:47:00,2022-01-11 13:47:00,0.456s,PASSED
+"click(findTestObject(""Object Repository/Page_Editing an Essay question/input__submitbutton""))",Chrome 97.0.4692.71,,,2022-01-11 13:47:00,2022-01-11 13:47:01,0.952s,PASSED
+closeBrowser(),Chrome 97.0.4692.71,,,2022-01-11 13:47:01,2022-01-11 13:47:02,0.636s,PASSED
+,,,,,,,
+Test Cases/Question bank/Duplicate a essay question,Chrome 97.0.4692.71,,,2022-01-11 13:47:02,2022-01-11 13:48:50,1m - 48.480s,PASSED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 13:47:02,2022-01-11 13:47:03,1.224s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 13:47:03,2022-01-11 13:47:04,0.500s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:47:04,2022-01-11 13:47:04,0.634s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""beta"")",Chrome 97.0.4692.71,,,2022-01-11 13:47:04,2022-01-11 13:47:05,0.808s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 13:47:05,2022-01-11 13:47:06,0.390s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:47:06,2022-01-11 13:47:07,1.114s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_My courses""))",Chrome 97.0.4692.71,,,2022-01-11 13:47:07,2022-01-11 13:47:39,31.991s,PASSED
+"click(findTestObject(""Object Repository/Page_My courses/div_Course image""))",Chrome 97.0.4692.71,,,2022-01-11 13:47:39,2022-01-11 13:47:40,1.488s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 2/a_More""))",Chrome 97.0.4692.71,,,2022-01-11 13:47:40,2022-01-11 13:48:12,31.672s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 2/a_Question bank""))",Chrome 97.0.4692.71,,,2022-01-11 13:48:12,2022-01-11 13:48:44,32.440s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Edit questions/a_Edit""), 0)",Chrome 97.0.4692.71,,,2022-01-11 13:48:44,2022-01-11 13:48:45,1.047s,PASSED
+"click(findTestObject(""Object Repository/Page_Edit questions/a_Edit""))",Chrome 97.0.4692.71,,,2022-01-11 13:48:45,2022-01-11 13:48:46,0.382s,PASSED
+"click(findTestObject(""Object Repository/Page_Edit questions/a_Duplicate""))",Chrome 97.0.4692.71,,,2022-01-11 13:48:46,2022-01-11 13:48:47,1.110s,PASSED
+"setText(findTestObject(""Object Repository/Page_Editing an Essay question/input_Question name_name""), ""Quiz 5"")",Chrome 97.0.4692.71,,,2022-01-11 13:48:47,2022-01-11 13:48:48,1.433s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Editing an Essay question/input_Tuesday, 11 January 2022, 657 AM_subm_3b0f34""), 0)",Chrome 97.0.4692.71,,,2022-01-11 13:48:48,2022-01-11 13:48:49,0.342s,PASSED
+"click(findTestObject(""Object Repository/Page_Editing an Essay question/input_Tuesday, 11 January 2022, 657 AM_subm_3b0f34""))",Chrome 97.0.4692.71,,,2022-01-11 13:48:49,2022-01-11 13:48:49,0.943s,PASSED
+closeBrowser(),Chrome 97.0.4692.71,,,2022-01-11 13:48:49,2022-01-11 13:48:50,0.646s,PASSED
+,,,,,,,
+Test Cases/Question bank/Edit a essay question,Chrome 97.0.4692.71,,,2022-01-11 13:48:50,2022-01-11 13:50:38,1m - 48.057s,PASSED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 13:48:50,2022-01-11 13:48:52,1.150s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 13:48:52,2022-01-11 13:48:52,0.458s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:48:52,2022-01-11 13:48:53,0.618s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""beta"")",Chrome 97.0.4692.71,,,2022-01-11 13:48:53,2022-01-11 13:48:54,0.911s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 13:48:54,2022-01-11 13:48:54,0.447s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:48:54,2022-01-11 13:48:55,0.937s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_My courses""))",Chrome 97.0.4692.71,,,2022-01-11 13:48:55,2022-01-11 13:49:27,31.770s,PASSED
+"click(findTestObject(""Object Repository/Page_My courses/div_Course image""))",Chrome 97.0.4692.71,,,2022-01-11 13:49:27,2022-01-11 13:49:28,1.331s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 2/a_More""))",Chrome 97.0.4692.71,,,2022-01-11 13:49:28,2022-01-11 13:50:00,31.560s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 2/a_Question bank""))",Chrome 97.0.4692.71,,,2022-01-11 13:50:00,2022-01-11 13:50:32,32.274s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Edit questions/a_Edit""), 0)",Chrome 97.0.4692.71,,,2022-01-11 13:50:32,2022-01-11 13:50:33,1.041s,PASSED
+"click(findTestObject(""Object Repository/Page_Edit questions/a_Edit""))",Chrome 97.0.4692.71,,,2022-01-11 13:50:33,2022-01-11 13:50:33,0.361s,PASSED
+"click(findTestObject(""Object Repository/Page_Edit questions/a_Edit question""))",Chrome 97.0.4692.71,,,2022-01-11 13:50:33,2022-01-11 13:50:34,1.156s,PASSED
+"click(findTestObject(""Object Repository/Page_Editing an Essay question/div_Question name""))",Chrome 97.0.4692.71,,,2022-01-11 13:50:34,2022-01-11 13:50:36,1.182s,PASSED
+"setText(findTestObject(""Object Repository/Page_Editing an Essay question/input_Question name_name""), ""Quiz 5"")",Chrome 97.0.4692.71,,,2022-01-11 13:50:36,2022-01-11 13:50:37,1.037s,PASSED
+"click(findTestObject(""Object Repository/Page_Editing an Essay question/input_Preview_submitbutton""))",Chrome 97.0.4692.71,,,2022-01-11 13:50:37,2022-01-11 13:50:38,0.876s,PASSED
+closeBrowser(),Chrome 97.0.4692.71,,,2022-01-11 13:50:38,2022-01-11 13:50:38,0.645s,PASSED
+,,,,,,,
+Test Cases/Question bank/Export essay quesion as XML,Chrome 97.0.4692.71,,,2022-01-11 13:50:38,2022-01-11 13:52:22,1m - 44.074s,PASSED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 13:50:39,2022-01-11 13:50:40,1.121s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 13:50:40,2022-01-11 13:50:40,0.517s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:50:40,2022-01-11 13:50:41,0.599s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""beta"")",Chrome 97.0.4692.71,,,2022-01-11 13:50:41,2022-01-11 13:50:42,0.929s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 13:50:42,2022-01-11 13:50:42,0.403s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:50:42,2022-01-11 13:50:43,0.952s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_My courses""))",Chrome 97.0.4692.71,,,2022-01-11 13:50:43,2022-01-11 13:51:15,31.673s,PASSED
+"click(findTestObject(""Object Repository/Page_My courses/div_Course image""))",Chrome 97.0.4692.71,,,2022-01-11 13:51:15,2022-01-11 13:51:16,1.369s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 2/a_More""))",Chrome 97.0.4692.71,,,2022-01-11 13:51:16,2022-01-11 13:51:48,31.421s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 2/a_Question bank""))",Chrome 97.0.4692.71,,,2022-01-11 13:51:48,2022-01-11 13:52:20,32.535s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Edit questions/a_Edit""), 0)",Chrome 97.0.4692.71,,,2022-01-11 13:52:20,2022-01-11 13:52:21,0.732s,PASSED
+"click(findTestObject(""Object Repository/Page_Edit questions/a_Edit""))",Chrome 97.0.4692.71,,,2022-01-11 13:52:21,2022-01-11 13:52:21,0.365s,PASSED
+"click(findTestObject(""Object Repository/Page_Edit questions/span_Export as Moodle XML""))",Chrome 97.0.4692.71,,,2022-01-11 13:52:21,2022-01-11 13:52:22,0.524s,PASSED
+closeBrowser(),Chrome 97.0.4692.71,,,2022-01-11 13:52:22,2022-01-11 13:52:22,0.632s,PASSED
+,,,,,,,
+Test Cases/Question bank/Preview a question in question bank,Chrome 97.0.4692.71,,,2022-01-11 13:52:22,2022-01-11 13:54:09,1m - 47.157s,PASSED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 13:52:23,2022-01-11 13:52:24,1.182s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 13:52:24,2022-01-11 13:52:24,0.674s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:52:24,2022-01-11 13:52:25,0.703s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""beta"")",Chrome 97.0.4692.71,,,2022-01-11 13:52:25,2022-01-11 13:52:26,0.893s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 13:52:26,2022-01-11 13:52:26,0.421s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:52:26,2022-01-11 13:52:28,1.024s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_My courses""))",Chrome 97.0.4692.71,,,2022-01-11 13:52:28,2022-01-11 13:52:59,31.849s,PASSED
+"click(findTestObject(""Object Repository/Page_My courses/div_Course image""))",Chrome 97.0.4692.71,,,2022-01-11 13:52:59,2022-01-11 13:53:01,1.433s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 2/a_More""))",Chrome 97.0.4692.71,,,2022-01-11 13:53:01,2022-01-11 13:53:32,31.547s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 2/a_Question bank""))",Chrome 97.0.4692.71,,,2022-01-11 13:53:32,2022-01-11 13:54:04,31.865s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Edit questions/a_Edit""), 0)",Chrome 97.0.4692.71,,,2022-01-11 13:54:04,2022-01-11 13:54:05,0.667s,PASSED
+"click(findTestObject(""Object Repository/Page_Edit questions/a_Edit""))",Chrome 97.0.4692.71,,,2022-01-11 13:54:05,2022-01-11 13:54:05,0.363s,PASSED
+"click(findTestObject(""Object Repository/Page_Edit questions/span_Preview""))",Chrome 97.0.4692.71,,,2022-01-11 13:54:05,2022-01-11 13:54:07,1.467s,PASSED
+"click(findTestObject(""Object Repository/Page_Preview question Quiz 5/input_Rich text editor_finish""))",Chrome 97.0.4692.71,,,2022-01-11 13:54:07,2022-01-11 13:54:08,1.364s,PASSED
+"click(findTestObject(""Object Repository/Page_Preview question Quiz 5/a_Close preview""))",Chrome 97.0.4692.71,,,2022-01-11 13:54:08,2022-01-11 13:54:09,0.750s,PASSED
+closeBrowser(),Chrome 97.0.4692.71,,,2022-01-11 13:54:09,2022-01-11 13:54:09,0.642s,PASSED
+,,,,,,,
+Test Cases/Question bank/Delete a question in question bank,Chrome 97.0.4692.71,,,2022-01-11 13:54:09,2022-01-11 13:56:27,2m - 17.144s,PASSED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 13:54:10,2022-01-11 13:54:11,1.132s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 13:54:11,2022-01-11 13:54:11,0.455s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:54:11,2022-01-11 13:54:12,0.625s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""beta"")",Chrome 97.0.4692.71,,,2022-01-11 13:54:12,2022-01-11 13:54:13,0.821s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 13:54:13,2022-01-11 13:54:13,0.394s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:54:13,2022-01-11 13:54:14,0.885s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_My courses""))",Chrome 97.0.4692.71,,,2022-01-11 13:54:14,2022-01-11 13:54:46,32.037s,PASSED
+"click(findTestObject(""Object Repository/Page_My courses/div_Course image""))",Chrome 97.0.4692.71,,,2022-01-11 13:54:46,2022-01-11 13:54:48,1.686s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 2/a_More""))",Chrome 97.0.4692.71,,,2022-01-11 13:54:48,2022-01-11 13:55:19,31.601s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 2/a_Question bank""))",Chrome 97.0.4692.71,,,2022-01-11 13:55:19,2022-01-11 13:55:52,32.709s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Edit questions/a_Edit""), 0)",Chrome 97.0.4692.71,,,2022-01-11 13:55:52,2022-01-11 13:55:53,0.572s,PASSED
+"click(findTestObject(""Object Repository/Page_Edit questions/a_Edit""))",Chrome 97.0.4692.71,,,2022-01-11 13:55:53,2022-01-11 13:55:53,0.408s,PASSED
+"click(findTestObject(""Object Repository/Page_Edit questions/a_Delete""))",Chrome 97.0.4692.71,,,2022-01-11 13:55:53,2022-01-11 13:55:54,0.846s,PASSED
+"click(findTestObject(""Object Repository/Page_Delete selected question/button_Delete""))",Chrome 97.0.4692.71,,,2022-01-11 13:55:54,2022-01-11 13:56:26,32.002s,PASSED
+closeBrowser(),Chrome 97.0.4692.71,,,2022-01-11 13:56:26,2022-01-11 13:56:27,0.655s,PASSED
+,,,,,,,
+Test Cases/Quiz/Create a quiz,Chrome 97.0.4692.71,,,2022-01-11 13:56:27,2022-01-11 13:58:21,1m - 54.400s,PASSED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 13:56:27,2022-01-11 13:56:28,1.113s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 13:56:28,2022-01-11 13:56:29,0.991s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:56:29,2022-01-11 13:56:30,0.625s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""admin"")",Chrome 97.0.4692.71,,,2022-01-11 13:56:30,2022-01-11 13:56:31,0.982s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 13:56:31,2022-01-11 13:56:31,0.405s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:56:31,2022-01-11 13:56:33,1.597s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_My courses""))",Chrome 97.0.4692.71,,,2022-01-11 13:56:33,2022-01-11 13:57:05,32.017s,PASSED
+"click(findTestObject(""Object Repository/Page_My courses/div_Course image""))",Chrome 97.0.4692.71,,,2022-01-11 13:57:05,2022-01-11 13:57:06,1.550s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 1/input_Edit mode_setmode""))",Chrome 97.0.4692.71,,,2022-01-11 13:57:06,2022-01-11 13:57:38,31.679s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Course 1/div_Topic 4                                _6e1b2f""), 0)",Chrome 97.0.4692.71,,,2022-01-11 13:57:38,2022-01-11 13:57:39,1.517s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 1/div_Topic 4                                _6e1b2f""))",Chrome 97.0.4692.71,,,2022-01-11 13:57:39,2022-01-11 13:57:40,0.585s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 1/i_Add file(s) here_icon fa fa-plus fa-fw""))",Chrome 97.0.4692.71,,,2022-01-11 13:57:40,2022-01-11 13:57:41,0.479s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 1/img_Information about the Page activity_ico_bab8d8""))",Chrome 97.0.4692.71,,,2022-01-11 13:57:41,2022-01-11 13:57:44,3.744s,PASSED
+"click(findTestObject(""Object Repository/Page_Editing Quiz/button_Rich text editor_yui_3_17_2_1_164180_970841""))",Chrome 97.0.4692.71,,,2022-01-11 13:57:44,2022-01-11 13:58:16,31.683s,PASSED
+"setText(findTestObject(""Object Repository/Page_Editing Quiz/input_Name_name""), ""Quiz 4"")",Chrome 97.0.4692.71,,,2022-01-11 13:58:16,2022-01-11 13:58:17,0.857s,PASSED
+"setText(findTestObject(""Object Repository/Page_Editing Quiz/div_Quiz 4""), ""<p dir=""ltr"" style=""text-align: left;"">Quiz 4</p>"")",Chrome 97.0.4692.71,,,2022-01-11 13:58:17,2022-01-11 13:58:18,1.138s,PASSED
+"click(findTestObject(""Object Repository/Page_Editing Quiz/input_Send content change notification_subm_37cbed""))",Chrome 97.0.4692.71,,,2022-01-11 13:58:18,2022-01-11 13:58:20,2.454s,PASSED
+closeBrowser(),Chrome 97.0.4692.71,,,2022-01-11 13:58:20,2022-01-11 13:58:21,0.658s,PASSED
+,,,,,,,
+Test Cases/Quiz/Add question after create a quiz,Chrome 97.0.4692.71,,,2022-01-11 13:58:21,2022-01-11 13:59:42,1m - 20.910s,PASSED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 13:58:21,2022-01-11 13:58:23,1.269s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 13:58:23,2022-01-11 13:58:23,0.769s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:58:23,2022-01-11 13:58:24,0.660s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""admin"")",Chrome 97.0.4692.71,,,2022-01-11 13:58:24,2022-01-11 13:58:25,0.868s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 13:58:25,2022-01-11 13:58:25,0.406s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:58:25,2022-01-11 13:58:27,1.408s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_My courses""))",Chrome 97.0.4692.71,,,2022-01-11 13:58:27,2022-01-11 13:58:59,32.011s,PASSED
+"click(findTestObject(""Object Repository/Page_My courses/div_Course category                        _b991c1""))",Chrome 97.0.4692.71,,,2022-01-11 13:58:59,2022-01-11 13:59:30,31.580s,PASSED
+"click(findTestObject(""Object Repository/Page_My courses/div_Course image""))",Chrome 97.0.4692.71,,,2022-01-11 13:59:30,2022-01-11 13:59:31,0.893s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Course 1/div_Topic 4""), 0)",Chrome 97.0.4692.71,,,2022-01-11 13:59:31,2022-01-11 13:59:32,0.822s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 1/div_Topic 4""))",Chrome 97.0.4692.71,,,2022-01-11 13:59:32,2022-01-11 13:59:33,0.509s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 1/a_Quiz 4""))",Chrome 97.0.4692.71,,,2022-01-11 13:59:33,2022-01-11 13:59:33,0.788s,PASSED
+"click(findTestObject(""Object Repository/Page_1 Quiz 4/a_Add question""))",Chrome 97.0.4692.71,,,2022-01-11 13:59:33,2022-01-11 13:59:35,1.688s,PASSED
+"click(findTestObject(""Object Repository/Page_Editing quiz Quiz 4/a_Add""))",Chrome 97.0.4692.71,,,2022-01-11 13:59:35,2022-01-11 13:59:36,0.764s,PASSED
+"click(findTestObject(""Object Repository/Page_Editing quiz Quiz 4/span_a random question""))",Chrome 97.0.4692.71,,,2022-01-11 13:59:36,2022-01-11 13:59:36,0.511s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Editing quiz Quiz 4/select_1            2            3         _f84cd8""), ""5"", true)",Chrome 97.0.4692.71,,,2022-01-11 13:59:36,2022-01-11 13:59:40,3.794s,PASSED
+"click(findTestObject(""Object Repository/Page_Editing quiz Quiz 4/input_Anh le la ai_existingcategory""))",Chrome 97.0.4692.71,,,2022-01-11 13:59:40,2022-01-11 13:59:41,1.232s,PASSED
+closeBrowser(),Chrome 97.0.4692.71,,,2022-01-11 13:59:41,2022-01-11 13:59:42,0.634s,PASSED
+,,,,,,,
+Test Cases/Quiz/Add new question to quiz (edit quiz),Chrome 97.0.4692.71,,,2022-01-11 13:59:42,2022-01-11 14:00:58,1m - 16.513s,PASSED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 13:59:42,2022-01-11 13:59:43,1.127s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 13:59:43,2022-01-11 13:59:44,0.466s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:59:44,2022-01-11 13:59:44,0.594s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""admin"")",Chrome 97.0.4692.71,,,2022-01-11 13:59:44,2022-01-11 13:59:45,0.894s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 13:59:45,2022-01-11 13:59:46,0.394s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 13:59:46,2022-01-11 13:59:47,1.114s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_My courses""))",Chrome 97.0.4692.71,,,2022-01-11 13:59:47,2022-01-11 14:00:19,31.791s,PASSED
+"click(findTestObject(""Object Repository/Page_My courses/div_Course image""))",Chrome 97.0.4692.71,,,2022-01-11 14:00:19,2022-01-11 14:00:20,1.406s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Course 1/a_Anh le dep trai  Quiz""), 0)",Chrome 97.0.4692.71,,,2022-01-11 14:00:20,2022-01-11 14:00:21,1.376s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 1/a_Anh le dep trai  Quiz""))",Chrome 97.0.4692.71,,,2022-01-11 14:00:21,2022-01-11 14:00:22,0.586s,PASSED
+"click(findTestObject(""Object Repository/Page_1 Anh le dep trai/a_Edit quiz""))",Chrome 97.0.4692.71,,,2022-01-11 14:00:22,2022-01-11 14:00:54,32.047s,PASSED
+"click(findTestObject(""Object Repository/Page_Editing quiz Anh le dep trai/a_Add""))",Chrome 97.0.4692.71,,,2022-01-11 14:00:54,2022-01-11 14:00:55,0.737s,PASSED
+"click(findTestObject(""Object Repository/Page_Editing quiz Anh le dep trai/span_from question bank""))",Chrome 97.0.4692.71,,,2022-01-11 14:00:55,2022-01-11 14:00:55,0.515s,PASSED
+"click(findTestObject(""Object Repository/Page_Editing quiz Anh le dep trai/input_Anh le la ai_q6""))",Chrome 97.0.4692.71,,,2022-01-11 14:00:55,2022-01-11 14:00:56,1.167s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Editing quiz Anh le dep trai/input_Show all 23_add""), 0)",Chrome 97.0.4692.71,,,2022-01-11 14:00:56,2022-01-11 14:00:57,0.596s,PASSED
+"click(findTestObject(""Object Repository/Page_Editing quiz Anh le dep trai/input_Show all 23_add""))",Chrome 97.0.4692.71,,,2022-01-11 14:00:57,2022-01-11 14:00:58,0.771s,PASSED
+closeBrowser(),Chrome 97.0.4692.71,,,2022-01-11 14:00:58,2022-01-11 14:00:58,0.620s,PASSED
+,,,,,,,
+Test Cases/Quiz/Delete a question in quiz,Chrome 97.0.4692.71,,,2022-01-11 14:00:58,2022-01-11 14:02:45,1m - 46.469s,PASSED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 14:00:59,2022-01-11 14:01:00,1.163s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 14:01:00,2022-01-11 14:01:01,0.554s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 14:01:01,2022-01-11 14:01:01,0.586s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""admin"")",Chrome 97.0.4692.71,,,2022-01-11 14:01:01,2022-01-11 14:01:02,0.850s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 14:01:02,2022-01-11 14:01:02,0.431s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 14:01:02,2022-01-11 14:01:03,1.116s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_My courses""))",Chrome 97.0.4692.71,,,2022-01-11 14:01:03,2022-01-11 14:01:36,32.572s,PASSED
+"click(findTestObject(""Object Repository/Page_My courses/div_Course image""))",Chrome 97.0.4692.71,,,2022-01-11 14:01:36,2022-01-11 14:01:38,1.756s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 1/a_Anh le dep trai  Quiz""))",Chrome 97.0.4692.71,,,2022-01-11 14:01:38,2022-01-11 14:01:39,1.415s,PASSED
+"click(findTestObject(""Object Repository/Page_1 Anh le dep trai/a_Edit quiz""))",Chrome 97.0.4692.71,,,2022-01-11 14:01:39,2022-01-11 14:01:41,1.729s,PASSED
+"click(findTestObject(""Object Repository/Page_Editing quiz Anh le dep trai/i_Anh le la ai_yui_3_17_2_1_1641778603553_419""))",Chrome 97.0.4692.71,,,2022-01-11 14:01:41,2022-01-11 14:02:13,31.654s,PASSED
+"click(findTestObject(""Object Repository/Page_Editing quiz Anh le dep trai/input_Are you sure you want to remove this _ac04cd""))",Chrome 97.0.4692.71,,,2022-01-11 14:02:13,2022-01-11 14:02:44,31.651s,PASSED
+closeBrowser(),Chrome 97.0.4692.71,,,2022-01-11 14:02:44,2022-01-11 14:02:45,0.691s,PASSED
+,,,,,,,
+Test Cases/Quiz/Preview a quiz by teacher,Chrome 97.0.4692.71,,,2022-01-11 14:02:45,2022-01-11 14:05:06,2m - 21.350s,PASSED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 14:02:45,2022-01-11 14:02:47,1.270s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 14:02:47,2022-01-11 14:02:47,0.849s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 14:02:47,2022-01-11 14:02:48,0.736s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""admin"")",Chrome 97.0.4692.71,,,2022-01-11 14:02:48,2022-01-11 14:02:49,0.847s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 14:02:49,2022-01-11 14:02:49,0.457s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 14:02:49,2022-01-11 14:02:51,1.157s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_My courses""))",Chrome 97.0.4692.71,,,2022-01-11 14:02:51,2022-01-11 14:03:23,32.351s,PASSED
+"click(findTestObject(""Object Repository/Page_My courses/div_Course image""))",Chrome 97.0.4692.71,,,2022-01-11 14:03:23,2022-01-11 14:03:25,1.617s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Course 1/a_Quiz 3""), 0)",Chrome 97.0.4692.71,,,2022-01-11 14:03:25,2022-01-11 14:03:26,1.380s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 1/a_Quiz 3""))",Chrome 97.0.4692.71,,,2022-01-11 14:03:26,2022-01-11 14:03:27,0.579s,PASSED
+"click(findTestObject(""Object Repository/Page_1 Quiz 3/a_Preview quiz""))",Chrome 97.0.4692.71,,,2022-01-11 14:03:27,2022-01-11 14:03:28,1.891s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Quiz 3/input_Rich text editor_next""), 0)",Chrome 97.0.4692.71,,,2022-01-11 14:03:28,2022-01-11 14:03:29,0.775s,PASSED
+"click(findTestObject(""Object Repository/Page_Quiz 3/input_Rich text editor_next""))",Chrome 97.0.4692.71,,,2022-01-11 14:03:29,2022-01-11 14:03:30,0.933s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Quiz 3 Attempt summary/button_Submit all and finish""), 0)",Chrome 97.0.4692.71,,,2022-01-11 14:03:30,2022-01-11 14:04:02,31.634s,PASSED
+"click(findTestObject(""Object Repository/Page_Quiz 3 Attempt summary/button_Submit all and finish""))",Chrome 97.0.4692.71,,,2022-01-11 14:04:02,2022-01-11 14:04:33,31.649s,PASSED
+"click(findTestObject(""Object Repository/Page_Quiz 3 Attempt summary/input_Once you submit, you will no longer b_9708c7""))",Chrome 97.0.4692.71,,,2022-01-11 14:04:33,2022-01-11 14:05:06,32.106s,PASSED
+closeBrowser(),Chrome 97.0.4692.71,,,2022-01-11 14:05:06,2022-01-11 14:05:06,0.761s,PASSED
+,,,,,,,
+Test Cases/Quiz/Attempt quiz by student,Chrome 97.0.4692.71,,,2022-01-11 14:05:06,2022-01-11 14:07:27,2m - 20.617s,PASSED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 14:05:07,2022-01-11 14:05:08,1.206s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 14:05:08,2022-01-11 14:05:09,0.876s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 14:05:09,2022-01-11 14:05:10,0.808s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""anhle2"")",Chrome 97.0.4692.71,,,2022-01-11 14:05:10,2022-01-11 14:05:10,0.828s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 14:05:10,2022-01-11 14:05:11,0.452s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 14:05:11,2022-01-11 14:05:12,1.408s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_My courses""))",Chrome 97.0.4692.71,,,2022-01-11 14:05:12,2022-01-11 14:05:44,31.995s,PASSED
+"click(findTestObject(""Object Repository/Page_My courses/div_Course image""))",Chrome 97.0.4692.71,,,2022-01-11 14:05:44,2022-01-11 14:05:46,1.451s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 1/a_Quiz 3""))",Chrome 97.0.4692.71,,,2022-01-11 14:05:46,2022-01-11 14:05:47,1.775s,PASSED
+"click(findTestObject(""Object Repository/Page_1 Quiz 3/a_Attempt quiz""))",Chrome 97.0.4692.71,,,2022-01-11 14:05:47,2022-01-11 14:05:49,1.322s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Quiz 3/input_Rich text editor_next""), 0)",Chrome 97.0.4692.71,,,2022-01-11 14:05:49,2022-01-11 14:05:50,1.036s,PASSED
+"click(findTestObject(""Object Repository/Page_Quiz 3/input_Rich text editor_next""))",Chrome 97.0.4692.71,,,2022-01-11 14:05:50,2022-01-11 14:05:51,0.743s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Quiz 3 Attempt summary/button_Submit all and finish""), 0)",Chrome 97.0.4692.71,,,2022-01-11 14:05:51,2022-01-11 14:06:22,31.509s,PASSED
+"click(findTestObject(""Object Repository/Page_Quiz 3 Attempt summary/button_Submit all and finish""))",Chrome 97.0.4692.71,,,2022-01-11 14:06:22,2022-01-11 14:06:54,31.443s,PASSED
+"click(findTestObject(""Object Repository/Page_Quiz 3 Attempt summary/input_Once you submit, you will no longer b_0cc48a""))",Chrome 97.0.4692.71,,,2022-01-11 14:06:54,2022-01-11 14:07:26,32.521s,PASSED
+closeBrowser(),Chrome 97.0.4692.71,,,2022-01-11 14:07:26,2022-01-11 14:07:27,0.900s,PASSED
+,,,,,,,
+Test Cases/Quiz/Delete a quiz,Chrome 97.0.4692.71,,,2022-01-11 14:07:27,2022-01-11 14:08:45,1m - 17.843s,PASSED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 14:07:28,2022-01-11 14:07:29,1.495s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 14:07:29,2022-01-11 14:07:30,0.788s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 14:07:30,2022-01-11 14:07:31,1.150s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""admin"")",Chrome 97.0.4692.71,,,2022-01-11 14:07:31,2022-01-11 14:07:32,0.869s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 14:07:32,2022-01-11 14:07:32,0.544s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 14:07:32,2022-01-11 14:07:34,1.724s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_My courses""))",Chrome 97.0.4692.71,,,2022-01-11 14:07:34,2022-01-11 14:08:06,32.212s,PASSED
+"click(findTestObject(""Object Repository/Page_My courses/div_Course category                        _b991c1""))",Chrome 97.0.4692.71,,,2022-01-11 14:08:06,2022-01-11 14:08:07,1.148s,PASSED
+"click(findTestObject(""Object Repository/Page_My courses/div_Course image""))",Chrome 97.0.4692.71,,,2022-01-11 14:08:07,2022-01-11 14:08:09,1.075s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 1/input_Edit mode_setmode""))",Chrome 97.0.4692.71,,,2022-01-11 14:08:09,2022-01-11 14:08:40,31.610s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Course 1/div_Topic 4                                _6e1b2f""), 0)",Chrome 97.0.4692.71,,,2022-01-11 14:08:40,2022-01-11 14:08:42,1.508s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 1/div_Topic 4                                _6e1b2f""))",Chrome 97.0.4692.71,,,2022-01-11 14:08:42,2022-01-11 14:08:42,0.584s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 1/i_Mark as done_icon fa fa-ellipsis-v fa-fw""))",Chrome 97.0.4692.71,,,2022-01-11 14:08:42,2022-01-11 14:08:43,0.495s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 1/span_Delete""))",Chrome 97.0.4692.71,,,2022-01-11 14:08:43,2022-01-11 14:08:43,0.499s,PASSED
+"click(findTestObject(""Object Repository/Page_Course 1/button_Yes""))",Chrome 97.0.4692.71,,,2022-01-11 14:08:43,2022-01-11 14:08:44,0.832s,PASSED
+closeBrowser(),Chrome 97.0.4692.71,,,2022-01-11 14:08:44,2022-01-11 14:08:45,0.751s,PASSED
+,,,,,,,
+Test Cases/I2/View grade of list course,Chrome 97.0.4692.71,,,2022-01-11 14:08:45,2022-01-11 14:08:53,8.116s,PASSED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 14:08:45,2022-01-11 14:08:46,1.325s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 14:08:46,2022-01-11 14:08:47,0.613s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 14:08:47,2022-01-11 14:08:48,0.717s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""anhle2"")",Chrome 97.0.4692.71,,,2022-01-11 14:08:48,2022-01-11 14:08:49,0.807s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 14:08:49,2022-01-11 14:08:49,0.418s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 14:08:49,2022-01-11 14:08:50,1.218s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_T1""))",Chrome 97.0.4692.71,,,2022-01-11 14:08:50,2022-01-11 14:08:51,1.151s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_Grades""))",Chrome 97.0.4692.71,,,2022-01-11 14:08:51,2022-01-11 14:08:52,0.865s,PASSED
+closeBrowser(),Chrome 97.0.4692.71,,,2022-01-11 14:08:52,2022-01-11 14:08:53,0.671s,PASSED
+,,,,,,,
+Test Cases/I2/Teacher view grade of a course,Chrome 97.0.4692.71,,,2022-01-11 14:08:53,2022-01-11 14:09:02,9.116s,PASSED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 14:08:53,2022-01-11 14:08:55,1.275s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 14:08:55,2022-01-11 14:08:55,0.555s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 14:08:55,2022-01-11 14:08:56,0.663s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""admin"")",Chrome 97.0.4692.71,,,2022-01-11 14:08:56,2022-01-11 14:08:57,0.791s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 14:08:57,2022-01-11 14:08:57,0.425s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 14:08:57,2022-01-11 14:08:58,1.206s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_AU""))",Chrome 97.0.4692.71,,,2022-01-11 14:08:58,2022-01-11 14:08:59,1.086s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_Grades""))",Chrome 97.0.4692.71,,,2022-01-11 14:08:59,2022-01-11 14:09:00,0.853s,PASSED
+"click(findTestObject(""Object Repository/Page_Grades - Admin User/a_1""))",Chrome 97.0.4692.71,,,2022-01-11 14:09:00,2022-01-11 14:09:01,1.167s,PASSED
+closeBrowser(),Chrome 97.0.4692.71,,,2022-01-11 14:09:01,2022-01-11 14:09:02,0.682s,PASSED
+,,,,,,,
+Test Cases/I2/Student view grade of a course,Chrome 97.0.4692.71,,,2022-01-11 14:09:02,2022-01-11 14:09:11,8.917s,PASSED
+"openBrowser("""")",Chrome 97.0.4692.71,,,2022-01-11 14:09:02,2022-01-11 14:09:04,1.254s,PASSED
+"navigateToUrl(""http://localhost/"")",Chrome 97.0.4692.71,,,2022-01-11 14:09:04,2022-01-11 14:09:04,0.473s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh/a_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 14:09:04,2022-01-11 14:09:05,0.621s,PASSED
+"setText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Username_username""), ""anhle2"")",Chrome 97.0.4692.71,,,2022-01-11 14:09:05,2022-01-11 14:09:06,0.810s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/form_Username                              _635ab4""))",Chrome 97.0.4692.71,,,2022-01-11 14:09:06,2022-01-11 14:09:06,0.398s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/input_Password_password""), ""eGmz8XUbrLe3vUQiiiujBg=="")",Chrome 97.0.4692.71,,,2022-01-11 14:09:06,2022-01-11 14:09:07,0.581s,PASSED
+"click(findTestObject(""Object Repository/Page_L Tm Anh Log in to the site/button_Log in""))",Chrome 97.0.4692.71,,,2022-01-11 14:09:07,2022-01-11 14:09:08,1.205s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_T1""))",Chrome 97.0.4692.71,,,2022-01-11 14:09:08,2022-01-11 14:09:08,0.669s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_Grades""))",Chrome 97.0.4692.71,,,2022-01-11 14:09:08,2022-01-11 14:09:09,0.820s,PASSED
+"click(findTestObject(""Object Repository/Page_Grades - Thien 1/a_1""))",Chrome 97.0.4692.71,,,2022-01-11 14:09:09,2022-01-11 14:09:10,1.036s,PASSED
+closeBrowser(),Chrome 97.0.4692.71,,,2022-01-11 14:09:10,2022-01-11 14:09:11,0.714s,PASSED
